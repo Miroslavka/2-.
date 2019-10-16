@@ -1,0 +1,30 @@
+<html>
+<head>
+<title> SOLAR </title>
+</head>
+<body>
+<table
+border="1"
+align="center"
+rules="rows"
+style="width:60;">
+<! - - HOME - - >
+<tr>
+<! - - 1 - ->
+<td>
+<! - - border="1"
+background="images............"
+style="width:100%; border - radius: 5px;">
+<! - - строка таблицы - - >
+<tr>
+<! - - столбец таблицы - - >
+<th>
+<! - -содержание ячейки столбца - - >
+<hl> SOLAR </hl1>
+<h3> RENEWABLE ENERGY <h3>
+<! - - закрытие таблицы - - >
+</th>
+</tr>
+</title>
+</body>
+</html>
